@@ -14,11 +14,11 @@ right: -30px;
 
 }
 .carousel-control-prev-icon{
-  background-image: url(img/left-arrow.png);
+  background-image: url(left-arrow.png);
 
 }
 .carousel-control-next-icon{
-  background-image: url(img/next.png);
+  background-image: url(next.png);
 
 }
 .carousel-control-prev, .carousel-control-next{
