@@ -1,0 +1,41 @@
+section{
+padding-top: 30px;
+padding-bottom: 100px;
+}
+body {
+padding-left: 10px;
+
+}
+.carousel-control-prev {
+left: -30px;
+}
+.carousel-control-next {
+right: -30px;
+
+}
+.carousel-control-prev-icon{
+  background-image: url(img/left-arrow.png);
+
+}
+.carousel-control-next-icon{
+  background-image: url(img/next.png);
+
+}
+.carousel-control-prev, .carousel-control-next{
+width: 20px;
+
+}
+#carouselSection{
+background-color: #b0d3bf;
+padding:10px;
+}
+.card {
+height: 100%;
+}
+.card-body {
+height: 100%;
+}
+#WelcomeTo{
+margin-left: 10%;
+
+}
